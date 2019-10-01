@@ -5,7 +5,6 @@
 by 
 **Lew Jiayi**
 
----
 
 ## Rules of Game
 
