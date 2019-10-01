@@ -49,10 +49,12 @@ One unique number simply means all the dice faces are the same and it will defin
 Two unique numbers can have two different combinations which are:
 
 **Four of a kind**
+
 | A | A | A | A | B |
 | - | - | - | - | - |
 
 **Full House**
+
 | A | A | A | B | B |
 | - | - | - | - | - |
 <br>
@@ -62,10 +64,12 @@ Two unique numbers can have two different combinations which are:
 Three unique numbers can have two different combinations which are:
 
 **Three of a kind**
+
 | A | A | A | B | C |
 | - | - | - | - | - |
 
 **Other Combination**
+
 | A | A | B | B | C |
 | - | - | - | - | - |
 <br>
