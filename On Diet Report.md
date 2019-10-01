@@ -2,7 +2,8 @@
 
 ## AI Assignment 2
 
-by 
+by
+
 **Lew Jiayi**
 
 
@@ -360,6 +361,7 @@ Where the chances are *16.67%* and *83.33%* respectively. *83.33%* of retaining 
 ```
 
 <br>
+
 ##### Two-Two-One
 
 In case of two-two-one, the improvements are:
@@ -462,6 +464,7 @@ From the calculaton above we know that keeping only one duplicates is likely to 
         return r
 ```
 <br>
+
 #### Four unique number
 
 Four unique numbers will only have one combination, one duplicate set one three other number. Similary to three unique number, the approch here is either keep or remove the duplicates.
@@ -519,6 +522,7 @@ Looking at the calculation, keeping duplicates will be a better move, hence, we 
 ```
 
 <br>
+
 #### Five unique number
 
 The logic is pretty simple at five unique number. If both one and six exist, reroll the dice 1 and go for a straight. Otherwise, simply keep the straight!
