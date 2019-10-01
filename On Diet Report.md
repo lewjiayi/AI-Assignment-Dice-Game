@@ -220,9 +220,12 @@ Improve to five in a row </p>
 
 | A | A | A | B | B | &#8680; | A | A | A | A | A |
 | - | - | - | - | - |    -    | - | - | - | - | - |
+
 or
+
 | A | A | A | B | B | &#8680; | B | B | B | B | B |
 | - | - | - | - | - |    -    | - | - | - | - | - |
+
 To improve to five in a row, we need to reroll two or three dices. The chances of improvement is *2.78%* and *0.46%* respectively. The chances of retaining a full house will be *13.89%* and *2.31%* respectively. This simply is not a wise move.
 
 <p style="text-decoration: underline">
@@ -230,6 +233,7 @@ Improve to straight </p>
 
 | A | A | A | B | B | &#8680; | A | B | C | D | E |
 | - | - | - | - | - |    -    | - | - | - | - | - |
+
 To improve to straight, we need to reroll up to three dice. The chance of improvment is *0.46%* and retaining full house is *2.31%*. Similarly, this is not a wise move
 
 Hence, the move here is to do nothing, `return []`.
