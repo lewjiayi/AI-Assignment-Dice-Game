@@ -21,8 +21,33 @@
 | Three-of-a-kind (Three + One + One) | Sum of dice + 30 |
 | Other combinations | Sum of dice |
 
-### The so call AI
+### How the so call "AI" works
 
 Yes, the so called "AI", since it is technically a bot that runs certain rules created with simple logical thinking. The rules/steps are simple:
 
-1. Look for unique numbers
+1. Look for unique numbers in the dice
+2. Apply da rules
+3. Repeat step 1 and 2
+
+#### Here are da rules
+
+> **One Unique Number**
+> You got the best set, do nothing!
+>
+> **Two Unique Number**
+> Check if the it's Four of a kind or a Full House
+> If it is a Full house, do nothing. This is good enough, don't spoil it
+> Else, roll the lonely guy there and go for Five in a roll, you have nothing to lose doing that!
+>
+> **Three Unique Number**
+> Check if the it's Three of a kind or a ... an awkward hand, the two-two-one
+> For Three of a kind, just reroll the other two
+> If you get an awkward hand, throw away the lonely dice, it might suprise you with a Full House
+>
+> **Four Unique Number**
+> AKA DA SHIT HAND
+> You got the worst hand, reroll those non-duplicate dices and leave it to fate
+>
+> **Five Unique Number**
+> Well well, is it a straight? If it is, keep your hand away, this is great!
+> If no, give the disgusting one a slap and hope you can get straight
